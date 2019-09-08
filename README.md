@@ -1,2 +1,2 @@
 # Exercicios-UTFPR
-Repositório para armazenar os exercícios importantes da faculdade.  
+Repositório para armazenar alguns exercícios importantes da faculdade.  
