@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "Jo„oLeonardoEx0.c"
+#include "Jo√£oLeonardoEx0.c"
 int divisores(int num);
 void mostrarDivisores(int num);
 
